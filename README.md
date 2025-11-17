@@ -6,7 +6,7 @@
 
 ### Recommended Alternative
 
-**For safer Spotify music downloading, consider using DRmare Spotify Music Converter 👉 [Win Download](https://download.drmare.com/MusicConverter.exe) [Mac Download](https://download.drmare.com/MusicConverter.dmg)
+For safer Spotify music downloading, consider using DRmare Spotify Music Converter 👉 [Win Download](https://download.drmare.com/MusicConverter.exe) [Mac Download](https://download.drmare.com/MusicConverter.dmg)
 - ✅ No account ban risk
 - ✅ Better stability and support
 
