@@ -2,9 +2,8 @@
 👉 [Win Download](https://download.drmare.com/MusicConverter.exe) 
 👉 [Mac Download](https://download.drmare.com/MusicConverter.dmg)
 
-**Use Zotify at your own risk. This fork is for educational and research purposes only.**
-
 ---
+**Use Zotify at your own risk. This fork is for educational and research purposes only.**
 
 ## ⚠️ Important Notice (2024-2025 Update)
 
