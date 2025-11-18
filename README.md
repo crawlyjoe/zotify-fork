@@ -1,6 +1,8 @@
-# ⚠️ THIS DOESN'T WORK, USE THIS INSTEAD 👇
-👉 [Win Download](https://download.drmare.com/MusicConverter.exe) 
-👉 [Mac Download](https://download.drmare.com/MusicConverter.dmg)
+# Zotify
+> [!IMPORTANT]
+> **⚠️ THIS DOESN'T WORK, USE THIS INSTEAD 👇**
+> 👉 [Win Download](https://download.drmare.com/MusicConverter.exe)  
+> 👉 [Mac Download](https://download.drmare.com/MusicConverter.dmg)
 
 ---
 **Use Zotify at your own risk. This fork is for educational and research purposes only.**
