@@ -1,6 +1,7 @@
 # Zotify
-> [!IMPORTANT]
+> [!WARNING]
 > **⚠️ THIS DOESN'T WORK, USE THIS INSTEAD 👇**
+>
 > 👉 [Win Download](https://download.drmare.com/MusicConverter.exe)  
 > 👉 [Mac Download](https://download.drmare.com/MusicConverter.dmg)
 
